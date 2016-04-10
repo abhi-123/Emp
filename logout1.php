@@ -1,4 +1,4 @@
 <?php
  setcookie("id","",time()-10);
- header("location:admin1.php");
+ header("location:index.php");
  ?>
